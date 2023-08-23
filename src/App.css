@@ -28,6 +28,40 @@
   color: #61dafb;
 }
 
+/*  */
+.btn-wrapper button {
+  background: rebeccapurple;
+  border-radius: 7px;
+  border: 4px;
+  color: white;
+  padding: 10px;
+}
+.img-wrapper img{
+  width: 100px;
+padding-top: -10px;
+  
+}
+
+.cart-wrapper {
+  height: 100px;
+  width: 500px;
+  border: 1px solid #ccc;
+  margin-left: 20px
+}
+.item{
+  float: left;
+  padding: 10px;
+  
+  display: inline-block;
+}
+
+.add-to-card img {
+    width: 100px;
+    float: right;
+}
+
+/*  */
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
